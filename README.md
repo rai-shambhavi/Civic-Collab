@@ -8,3 +8,6 @@ index.html
 css/style.css
 js/app.js
 ```
+
+## Added
+- `js/ext.js`: student ratings, citizen rating after resolution, lead-conflict rule (higher-rated student preferred), leaderboard, alerts page, university/citizen-first navigation.
